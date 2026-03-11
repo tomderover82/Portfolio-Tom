@@ -5,13 +5,12 @@ title: Contact
 
 # Get in Touch
 
-Feel free to reach out through:
+I'm always interested in discussing QA opportunities, test automation challenges, or collaborating on quality assurance initiatives.
 
-**Email:** tom@example.com
+**Email:** [info@derovertestconsultancy.nl](mailto:info@derovertestconsultancy.nl)
 
-**Social Media:**
-- [GitHub](https://github.com/tomderover82)
-- [LinkedIn](https://linkedin.com/in/tom)
-- [Twitter](https://twitter.com/tom)
+**Phone:** +31 6 11 32 0384
 
-I'd love to connect!
+**Location:** Bergen (NH), Netherlands
+
+Feel free to reach out with questions or opportunities!
