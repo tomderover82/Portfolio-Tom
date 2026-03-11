@@ -5,19 +5,27 @@ title: About
 
 # About Me
 
-Hi! I'm Tom, a passionate developer and tech enthusiast. I love building solutions, learning new technologies, and solving complex problems.
+Senior QA Engineer with 14+ years of experience in test automation and quality assurance. Specialized in modern testing frameworks like Playwright and Cypress, with a strong background in setting up and executing advanced automated tests across diverse development environments.
+
+I excel at identifying quality improvements in complex web and mobile applications, with extensive knowledge of contemporary test tools and CI/CD pipelines.
 
 ## Background
 
-- Driven by curiosity and a desire to create meaningful software
-- Experienced in full-stack development
-- Always exploring new tools and frameworks
+- **Location:** Bergen (NH), Netherlands
+- **Current Role:** Senior QA Engineer / Test Automation Specialist
+- **Experience:** 14+ years in Quality Assurance and Test Automation
+- **Education:** HBO Bedrijfskundige Informatica (2009)
 
-## What I Love
+## What I Do
 
-- Building things that work
-- Learning new technologies
-- Solving problems creatively
-- Collaborating with teams
+- Design and implement end-to-end test automation frameworks
+- Mentor development teams on testing best practices
+- Set up CI/CD pipelines and automated testing environments
+- Lead quality assurance initiatives in Agile/Scrum teams
+- Identify and resolve complex quality issues in web and mobile applications
 
-Feel free to connect with me on the [Contact]({{ '/contact' | relative_url }}) page!
+## Interests
+
+- Golf, Padel, Tennis, Football
+- Painting and creative pursuits
+- Continuous learning in QA and testing technologies
