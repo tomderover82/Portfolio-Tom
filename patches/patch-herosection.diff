@@ -1,5 +1,10 @@
 --- a/src/components/HeroSection.jsx
 +++ b/src/components/HeroSection.jsx
-@@ -12,3 +12,3 @@
-- <img src="/assets/hero/portfolio-hero.jpg" />
-+ <img src="/assets/hero/portfolio-hero.jpg" alt="Screenshot of Tom's portfolio homepage showing featured projects" />
+@@ -12,7 +12,9 @@
+
+return (
+<img src="/assets/hero/portfolio-hero.jpg" />
+)
+return (
+<img src="/assets/hero/portfolio-hero.jpg" alt="Screenshot of Tom's portfolio homepage showing featured projects" />
+)

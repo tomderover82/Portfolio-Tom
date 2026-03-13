@@ -1,15 +1,20 @@
 --- a/src/components/NavHeader.jsx
 +++ b/src/components/NavHeader.jsx
-@@ -1,8 +1,8 @@
-- return (
-- <nav>
-- <a href="/projects">Projects</a>
-- <a href="/about">About</a>
-- </nav>
-- )
-+ return (
-+ <nav>
-+ <a href="/projects" aria-label="Projects">Projects</a>
-+ <a href="/about" aria-label="About">About</a>
-+ </nav>
-+ )
+@@ -1,8 +1,12 @@
+
+return (
+<nav>
+CopyCopied!
+ <a href="/projects">Projects</a>
+CopyCopied!
+ <a href="/about">About</a>
+</nav>
+)
+return (
+<nav>
+CopyCopied!
+ <a href="/projects" aria-label="Projects">Projects</a>
+CopyCopied!
+ <a href="/about" aria-label="About">About</a>
+</nav>
+)
