@@ -3,10 +3,13 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
+# Tom’s Portfolio
 
-Hi, I'm **Tom**. I'm a developer and tech enthusiast passionate about building solutions and continuously learning new technologies.
+A concise, professional showcase of experience and skills.
 
-This portfolio showcases my **work experience**, **technical skills**, and **background**. Browse around to learn more about me.
+> Senior QA Engineer with 14+ years of experience.
 
-[Learn more about me →]({{ '/about' | relative_url }})
+[About]({{ '/about' | relative_url }}) • [Experience]({{ '/experience' | relative_url }}) • [Skills]({{ '/skills' | relative_url }}) • [Contact]({{ '/contact' | relative_url }})
+
+![CV Photo](assets/images/cv-photo.jpg)
+

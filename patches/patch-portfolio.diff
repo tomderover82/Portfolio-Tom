@@ -1,0 +1,17 @@
+--- a/src/pages/Portfolio.jsx
++++ b/src/pages/Portfolio.jsx
+@@ -1,7 +1,24 @@
+-import HeavyChart from '../components/HeavyChart'
++const HeavyChart = React.lazy(() => import('../components/HeavyChart'))
++import { Suspense } from 'react'
+@@ -30,7 +47,12 @@
+
+return (
+<HeavyChart data={chartData} />
+)
+return (
+<Suspense fallback={<div>Loading...</div>}>
+CopyCopied!
+ <HeavyChart data={chartData} />
+</Suspense>
+)
