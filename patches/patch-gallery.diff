@@ -1,0 +1,5 @@
+--- a/src/components/Gallery.jsx
++++ b/src/components/Gallery.jsx
+@@ -40,1 +40,1 @@
+- return <img src={item.image} />;
++ return <img src={item.image} loading="lazy" alt={item.alt || 'portfolio item'} />;
